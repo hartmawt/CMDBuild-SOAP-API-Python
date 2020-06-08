@@ -22,7 +22,7 @@ setup(
         'Programming Language :: Python',
     ],
     install_requires=[
-          'suds',
+          'suds-jurko',
           'suds-py3-fixes'
     ],
 )
